@@ -1,5 +1,7 @@
 # Yogyakarta House Price Prediction
 
+Deployed in streamlit cloud https://yogyakarta-house-price-prediction-k8kftr6funsmjwec5yd3mp.streamlit.app/
+
 This project predicts **house prices in Yogyakarta, Indonesia** using classical machine learning models.
 It is built as a **final project for the Machine Learning Zoomcamp** and demonstrates an end-to-end ML workflow:
 data preparation, model training, evaluation, comparison, and deployment.
